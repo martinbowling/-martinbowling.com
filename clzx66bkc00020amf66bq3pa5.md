@@ -3,6 +3,7 @@ title: "Building Secret Shopper:"
 datePublished: Fri Aug 16 2024 20:36:24 GMT+0000 (Coordinated Universal Time)
 cuid: clzx66bkc00020amf66bq3pa5
 slug: building-secret-shopper
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vHvUqnt31wU/upload/e84c169c2e6f491358f2cbea2df9cb44.jpeg
 tags: ai, nextjs, ocr, agent, ai-agents, highlight, multion
 
 ---
